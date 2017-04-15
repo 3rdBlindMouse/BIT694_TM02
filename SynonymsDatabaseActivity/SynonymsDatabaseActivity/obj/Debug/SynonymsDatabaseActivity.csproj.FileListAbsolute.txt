@@ -1,0 +1,10 @@
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\obj\Debug\SynonymsDatabaseActivity.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\obj\Debug\SynonymsDatabaseActivity.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\obj\Debug\SynonymsDatabaseActivity.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\bin\Debug\SynonymsDatabaseActivity.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\bin\Debug\SynonymsDatabaseActivity.exe
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\bin\Debug\SynonymsDatabaseActivity.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\obj\Debug\SynonymsDatabaseActivity.exe
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\obj\Debug\SynonymsDatabaseActivity.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\bin\Debug\NewWords.mdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SynonymsDatabaseActivity\SynonymsDatabaseActivity\obj\Debug\SynonymsDatabaseActivity.MainForm.resources
